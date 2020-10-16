@@ -11,8 +11,8 @@ Enthusiast of the best web & mobile development technologies.
 Here, you can look what I am studying.
 
 - 🌱 I’m currently learning NodeJs and ReactJs.
-- 🤔 I’m looking for help with NextJs
-- 💬 Ask me about Express, Typescript and 
+- 🤔 I’m looking for help with NextJs.
+- 💬 Ask me about Express and Typescript.
 
 <!--
 - 🔭 I’m currently working on ...
